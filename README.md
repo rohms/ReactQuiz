@@ -1,4 +1,4 @@
-# Learning TS with the help of FreeCodeCamp tutorial
+# Learning TS with the help of a tutorial
 
 
 ![image](https://user-images.githubusercontent.com/86847314/159785969-0e356def-8eef-4370-a314-2cc9470c5f3f.png)
